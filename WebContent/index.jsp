@@ -225,7 +225,69 @@
 
 <!-- 					Footer Begin			-->
 
-
+<div class="footer">
+    <br><br>
+    <div id="top">
+      <p>How to Get Started with Online Dating?</p>
+    </div>
+    <br><br>
+    <div id="mid">
+      <p>If you want to start to date singles today, it is time to get started with online dating tips. Setting up an online profile is easy. When you are filling out your profile information, make sure to be completely honest about yourself. Your goal is to meet a lot of people, so the people reading your profile will find out eventually that you are lying.<br>
+      You should never attempt to trick someone into meeting you by using deception. The results of lying will never work out in your favor. Use a recent picture of yourself. It is natural to want to pick the most flattering picture of yourself, but make sure that it is at least an accurate representation of what you currently look like.<br>
+      It is time to start sending messages to people in your area! Be original. If you just copy and paste the same message to every person you want to talk to, it will be obvious that you did not take a particular interest in them. Sending the personalized messages will make you seem more interested in each person and give you a much better chance of getting a response.<br>
+      Don't be afraid to let your true personality shine through. The person wants to know the real you in order to see if you might be compatible. Ask questions to get to know the other person and find out if you are truly interested.</p>
+    </div>
+    <br>
+    <div class="reg-btns-holder clear">
+        <button class="button-e" style="vertical-align:middle">
+          <span>Sign up with email </span>
+        </button>
+        <p class="or1">or</p>
+        <button class="button-f" style="vertical-align:middle">
+          <span>Sign up with Facebook</span>
+        </button>
+      </div>
+      <br>
+    <hr>
+    <table id="table">
+      <tr>
+        <td>About CatchUrMatch</td>
+        <td>Community</td>
+        <td>Find love</td>
+        <td>Help</td>
+      </tr>
+      <tr>
+        <td><a href=""> Privacy Policy</a></td>
+        <td><a href=""> Chat Rooms</a></td>
+        <td><a href=""> Find Love Online</a></td>
+        <td><a href=""> Dating Safety Tips</a></td>       
+      </tr>
+      <tr>
+        <td><a href=""> Terms & Conditions</a></td>
+        <td><a href=""> Dating Blog</a></td>
+        <td><a href=""> Looking for love</a></td>
+        <td><a href=""> Sitemap</a></td>
+      </tr>
+      <tr>
+        <td><a href=""> Affiliates</a></td>
+        <td><a href=""> Local Dating</a></td>
+        <td><a href=""> Men looking for women</a></td>
+        <td><a href=""> Help</a></td>
+      </tr>
+      <tr>
+        <td><a href=""> Contact Us</a></td>
+        <td><a href=""> </a></td>
+        <td><a href=""> Women looking for men</a></td>
+        <td><a href=""> </a></td>
+      </tr>
+      <tr>
+        <td><a href=""> About Us</a></td>
+      </tr>
+  </table>
+    <div id="bottom">
+      <p>Copyright © 2017 CatchUrMatch</p>      
+    </div>
+  </div>
 
 <!-- 					Footer End				-->
 
